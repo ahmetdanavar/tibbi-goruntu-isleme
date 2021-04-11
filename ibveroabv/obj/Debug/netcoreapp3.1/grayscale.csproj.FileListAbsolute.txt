@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Grayscale\ibveroabv\obj\Debug\netcoreapp3.1\grayscale.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Grayscale\ibveroabv\obj\Debug\netcoreapp3.1\ibveroabv.Form1.resources
+C:\Users\hp\Desktop\Grayscale\ibveroabv\obj\Debug\netcoreapp3.1\grayscale.Properties.Resources.resources
+C:\Users\hp\Desktop\Grayscale\ibveroabv\obj\Debug\netcoreapp3.1\grayscale.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Grayscale\ibveroabv\obj\Debug\netcoreapp3.1\grayscale.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Grayscale\ibveroabv\obj\Debug\netcoreapp3.1\grayscale.AssemblyInfo.cs
+C:\Users\hp\Desktop\Grayscale\ibveroabv\obj\Debug\netcoreapp3.1\grayscale.csproj.CoreCompileInputs.cache
